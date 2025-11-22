@@ -296,4 +296,4 @@ This lab is a living project. Here is how I plan to expand it (and how you can t
 > Clone this repo and try to replicate the setup. Can you get the Wazuh agent on the Windows Server to report back to the Manager in the MGMT zone?
 
 ---
-*Generated from the original project report.*
+
