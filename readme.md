@@ -53,7 +53,7 @@ This repository documents the journey of designing and implementing a segmented,
 
 ## Contributing
 
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/home-lab/issues).
+Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/FaustoRosado/home-lab/issues).
 
 1.  Fork the Project
 2.  Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
