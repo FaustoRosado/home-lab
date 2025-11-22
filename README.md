@@ -1,4 +1,4 @@
-# The Ultimate Cybersecurity Home Lab
+# Enterprise Network Simulation: Design, Implementation, & Security Operations
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-VirtualBox-orange.svg)
@@ -25,7 +25,7 @@ This repository documents the journey of designing and implementing a segmented,
 
 ```text
 /home-lab
-├── PROJECT_REPORT.md       # The Full Detailed Report (Start Here!)
+├── enterprise-lab-report.md # The Full Detailed Report (Start Here!)
 ├── roadmap.md              # Future Work & Interactive Challenges
 ├── configs/                # Configuration Templates (Community Contributed)
 └── images/                 # Screenshots & Diagrams
@@ -35,7 +35,7 @@ This repository documents the journey of designing and implementing a segmented,
 
 ## Quick Start
 
-1.  **Read the Report:** Start with [PROJECT_REPORT.md](PROJECT_REPORT.md) to understand the architecture and design decisions.
+1.  **Read the Report:** Start with [enterprise-lab-report.md](enterprise-lab-report.md) to understand the architecture and design decisions.
 2.  **Explore the Challenges:** Check out [roadmap.md](roadmap.md) for ideas on how to expand the lab and test your skills.
 3.  **Use the Configs:** Browse the `configs/` folder for reference configurations to help you set up your own tools.
 
